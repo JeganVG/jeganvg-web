@@ -245,7 +245,7 @@ transform: rotate(360deg);
 .glowing-btn {
   position: absolute;
   top: 40%;
-  left: 80%;
+  left: 60%;
   color: var(--glow-color);
   cursor: pointer;
   padding: 0.35em 1em;
