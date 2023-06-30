@@ -168,6 +168,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family:oswald;
+    /* overflow: hidden; */
   }
   body {
     min-height: 100vh;
@@ -236,7 +237,7 @@
     position: absolute;
     top: 0;
     /* right: 0; */
-    left: 500px;
+    left: 50%;
     width: 60vmin;
     height: 100%;
     background-image: url(../assests/html.png);
@@ -249,7 +250,7 @@
     position: absolute;
     top: 0;
     /* right: 0; */
-    left: 500px;
+    left: 50%;
     width: 60vmin;
     height: 100%;
     background-image: url(../assests/css.png);
@@ -262,7 +263,7 @@
     position: absolute;
     top: 0;
     /* right: 0; */
-    left: 500px;
+    left: 50%;
     width: 60vmin;
     height: 100%;
     background-image: url(../assests/js.png);
@@ -275,7 +276,7 @@
     position: absolute;
     top: 0;
     /* right: 0; */
-    left: 250px;
+    left: 25%;
     width: 60vmin;
     height: 100%;
     background-image: url(../assests/nodejs.png);
@@ -288,7 +289,7 @@
     position: absolute;
     top: 0;
     /* right: 0; */
-    left: 400px;
+    left: 40%;
     width: 60vmin;
     height: 100%;
     background-image: url(../assests/react.png);
@@ -301,7 +302,7 @@
     position: absolute;
     top: 0;
     /* right: 0; */
-    left: 400px;
+    left: 40%;
     width: 60vmin;
     height: 100%;
     background-image: url(../assests/mongodb.png);
